@@ -1,12 +1,8 @@
 # GBZ
 
-> A retro Game Boy handheld emulator and frontend for Windows built with .NET 10 WinForms and the GonFox emulation core.
-
----
-
-## Overview
-
 **GBZ** brings classic Game Boy gaming to Windows with a realistic handheld shell design. Featuring a custom borderless rounded window contour, integrated volume slider, low-latency audio via NAudio, and full XInput gamepad integration, GBZ provides a nostalgic, immersive retro experience right on your desktop.
+
+<img width="489" height="754" alt="image" src="https://github.com/user-attachments/assets/3d7b8243-37dd-4d0d-ad06-027d597e6860" />
 
 ## Features
 
