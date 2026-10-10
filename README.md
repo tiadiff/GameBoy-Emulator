@@ -2,10 +2,6 @@
 
 > A retro Game Boy handheld emulator and frontend for Windows built with .NET 10 WinForms and the GonFox emulation core.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![.NET 10.0](https://img.shields.io/badge/.NET-10.0--windows-512BD4.svg)](https://dotnet.microsoft.com/)
-[![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://www.microsoft.com/windows)
-
 ---
 
 ## Overview
